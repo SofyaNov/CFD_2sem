@@ -1,0 +1,14 @@
+1.0	! L     * Domain and numerical parameters
+0.4	! H
+100	! NI
+80	! NJ
+20000   ! NITER
+0.5     ! CFL
+1.0     ! Uref
+1.0e-8	! EPS
+
+1.0	! U0       * Physical parameters
+2.0     ! MU
+1000	! R0
+0       ! P0
+0.05    !L1
